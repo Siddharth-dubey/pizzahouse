@@ -1,0 +1,5 @@
+export const orderConstants = {
+  SET_ADDRESS_INFO: "SET_ADDRESS_INFO",
+  SET_PIZZA_INFO: "SET_PIZZA_INFO",
+  SET_PAYMENT_INFO: "SET_PAYMENT_INFO",
+};
